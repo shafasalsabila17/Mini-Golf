@@ -23,4 +23,5 @@ public class CameraController : MonoBehaviour
         CMFreelook.m_YAxis.m_InputAxisValue = 0 ;
     }
    }
+   
 }
